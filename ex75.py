@@ -1,3 +1,4 @@
+#multiple inheritance
 class A:
     a=10
     b=20
